@@ -1,2 +1,2 @@
 print('hello, world')
-print('могу менять твой код')
+print('maybe in grand rust ')
